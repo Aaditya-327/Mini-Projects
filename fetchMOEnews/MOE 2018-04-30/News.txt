@@ -1,0 +1,20 @@
+Count, Folder = 0 
+                News Title: चीन सरकारबाट प्राप्त Master in engineering मा मनोनयन गरिएको बारे अत्यन्त जरुरी सूचना
+                News link: http://moe.gov.np/article/895/master-in-engineering.html
+
+Count, Folder = 1 
+                News Title: PHD अध्ययनका लागि चिनिया छात्रवृत्तिमा मनोनयन गरिएको बारेको अत्यन्त जरुरी सूचना
+                News link: http://moe.gov.np/article/894/china-phd-scholarship.html
+
+Count, Folder = 2 
+                News Title: आयुर्वेद स्नातक तह BAMS विषयमा छात्रवृत्तिका लागि निवेदन दिएका उम्मेदवारहरुको योग्यताक्रम सूची तथा पूर्व मनोनयन सूची प्रकाशन गरिएको अत्यन्त जरुरी सूचना
+                News link: http://moe.gov.np/article/893/china-bams-scholaship.html
+
+Count, Folder = 3 
+                News Title: चीन सरकारबाट प्राप्त छात्रवृत्तिको योग्यताक्रम तथा पूर्वमनोनयन गरिएको बारेको सूचना
+                News link: http://moe.gov.np/article/892/chinese-scholarship-1.html
+
+Count, Folder = 4 
+                News Title: नेपाल सरकारलाई मित्रराष्ट्र चीन सरकारले सन् २०१८/१९का लागि उपलब्ध गराएको छात्रवृत्ति छनोटका लागि योग्यताक्रम कायम गर्ने प्रयोजनका लागि दरखास्त माग सम्बन्धी अत्यन्त जरुरी सूचना
+                News link: http://moe.gov.np/article/888/china--scholarship.html
+
