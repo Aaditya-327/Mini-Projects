@@ -1,0 +1,24 @@
+! Title: Custom AdGuard Home Blocklist
+! Description: Personal DNS blocklist for ThisVid, Startpage (and Anonymous View proxy), and 4chan.
+! Version: 1.1
+! Expires: 1 day
+! Syntax: AdBlock (AdGuard Home DNS)
+! Note: The ||domain^ syntax automatically blocks the root domain and all subdomains.
+
+! --- ThisVid ---
+||thisvid.com^
+
+! --- Startpage (Search & Anonymous View Proxy) ---
+||startpage.com^
+||av.startpage.com^
+||eu-browse.startpage.com^
+||us-browse.startpage.com^
+||startpage-proxy.com^
+||ixquick.com^
+||ixquick-proxy.com^
+
+! --- 4chan ---
+||4chan.org^
+||4channel.org^
+||4cdn.org^
+||4chan.net^
