@@ -22,3 +22,6 @@
 ||4channel.org^
 ||4cdn.org^
 ||4chan.net^
+
+! --- Motherfucking Website ---
+||motherfuckingwebsite.com^
